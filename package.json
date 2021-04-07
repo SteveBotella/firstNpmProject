@@ -1,0 +1,25 @@
+{
+  "name": "firstNpmProject",
+  "version": "1.0.0",
+  "description": "firstNpmProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "date": "node today.js",
+    "weather": "node weather.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveBotella/firstNpmProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveBotella/firstNpmProject/issues"
+  },
+  "homepage": "https://github.com/SteveBotella/firstNpmProject#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
